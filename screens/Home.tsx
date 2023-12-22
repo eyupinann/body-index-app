@@ -49,7 +49,7 @@ const Home: React.FC = () => {
       >
         <ScrollView contentContainerStyle={styles.scrollContainer}>
           <View style={styles.formContainer}>
-            <Text style={styles.title}>Beden Kitle İndeksi Hesaplama</Text>
+            <Text style={styles.title}>Body Mass Index Calculation</Text>
             <TextInput
               style={styles.input}
               placeholder="Boy (cm)"
