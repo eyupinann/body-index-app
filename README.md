@@ -1,3 +1,9 @@
+## Body Index Calculation
+Our purpose in this application is to calculate the body mass index after entering the weight and height information entered by the user.
+<p float="left">
+  <img src="assets/bodykit.png" width="400" alt="image 2"/> 
+</p>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
