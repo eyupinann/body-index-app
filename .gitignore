@@ -27,6 +27,8 @@ ios/.xcode.env.local
 build/
 .idea
 .gradle
+__tests__
+.bundle
 local.properties
 *.iml
 *.hprof
